@@ -46,8 +46,7 @@ def who_am_i(text):
 
 
 def where_born(text):
-    tts('I was created by a magician named Tanay, in India, '
-        'the magical land of himalayas.')
+    tts('I was created by a magician named martin wood, who iam totally in love with')
 
 
 def how_are_you(text):
